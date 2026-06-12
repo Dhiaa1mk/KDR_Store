@@ -157,7 +157,9 @@ export function Footer() {
       <div className="border-t border-primary/20">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
-            <p>© 2026 KDR__STORE. Tous droits réservés.</p>
+            <p>© 2026 KDR__STORE. Tous droits réservés.    Designed by
+              <a href="https://www.instagram.com/__dh1aaaa_259__/">__dh1aaaa_259__</a>
+            </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/contact" className="hover:text-primary transition-colors">
                 Politique de Confidentialité
